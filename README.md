@@ -1,7 +1,7 @@
 👋 Hi, I’m @LuciaSheel.  
 🌱 I’m a full-stack developer.  
 ✨ I love building useful apps and solving tricky problems.  
-⚡ Fun fact: I started coding because learning is fun — and it still is!  
+⚡ Fun fact: I started coding because learning is fun — and I keep going because it still is!  
 
   ###
 
